@@ -27,7 +27,8 @@
 
 This is a weather app where API requests were made visual using Django. API service used in this is project is from [openweathermap](https://openweathermap.org/)
 
- 
+ ![weather-app](https://user-images.githubusercontent.com/98649983/191217625-68051481-5dee-4b2d-b43d-ec2133a2fb4d.gif)
+
 
 
 <h2 id="stack">Stack & Tools</h2>
@@ -38,6 +39,7 @@ This is a weather app where API requests were made visual using Django. API serv
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - Openweathermap API service
 
 ## Project Structure
@@ -50,9 +52,6 @@ This is a weather app where API requests were made visual using Django. API serv
 ├── main
 │   ├── __init__.py
 │   ├── __pycache__
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
 │   └── wsgi.py
 │
 └── weatherapp
